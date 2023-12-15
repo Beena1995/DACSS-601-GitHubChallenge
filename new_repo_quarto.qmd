@@ -18,4 +18,9 @@ ques <- "What was the last movie you watched in a theater?"
 ques
 ans <- "Barbie"
 ans
+
+ques <- "What did you eat for today’s lunch?"
+ques
+ans <- "Salad"
+ans
 ```
